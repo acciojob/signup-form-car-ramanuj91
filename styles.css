@@ -1,2 +1,26 @@
-
+#name{
+    margin-bottom: 6px;
+}
+#email{
+    margin-bottom: 6px;
+}
+#male{
+    margin-bottom: 6px;
+}
+#cars{
+    margin-bottom: 6px;
+}
+#age{
+    margin-bottom: 6px;
+}
+#dob{
+    margin-bottom: 6px;
+}
+#password{
+    margin-bottom: 6px;
+}
+#submit-btn{
+    margin-top: 20px;
+    margin-left: 15px;
+}
 /* Your CSS Code here. */
